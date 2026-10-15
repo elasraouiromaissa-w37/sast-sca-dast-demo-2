@@ -1,0 +1,5 @@
+.venv/
+venv/
+venv-audit/
+__pycache__/
+zap_reports/
